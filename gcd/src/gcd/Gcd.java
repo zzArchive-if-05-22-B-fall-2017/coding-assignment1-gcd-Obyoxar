@@ -1,3 +1,4 @@
+//GCD-Calc by Erik Mayrhofer 3BHIF 21.9.17
 package gcd;
 
 import java.util.ArrayList;
